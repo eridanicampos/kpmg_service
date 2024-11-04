@@ -1,0 +1,11 @@
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\bin\Debug\net8.0\ProjectTest.Infrastructure.deps.json
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\bin\Debug\net8.0\ProjectTest.Infrastructure.dll
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\bin\Debug\net8.0\ProjectTest.Infrastructure.pdb
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.AssemblyInfoInputs.cache
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.AssemblyInfo.cs
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.dll
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\refint\ProjectTest.Infrastructure.dll
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ProjectTest.Infrastructure.pdb
+C:\_Source\ProjectTest\ProjectTest.Infrastructure\obj\Debug\net8.0\ref\ProjectTest.Infrastructure.dll
