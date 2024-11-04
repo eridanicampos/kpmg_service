@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignora as pastas bin e obj em todos os projetos
+**/bin/
+**/obj/
+
 # User-specific files
 *.rsuser
 *.suo
